@@ -7,7 +7,6 @@ function oneThroughTwenty () {
 }
 oneThroughTwenty()
 
-
 function evensToTwenty() {
   let result = []
   for (let count = 2; count<=20; count+=2) {
